@@ -7,7 +7,7 @@ Mình làm project nhỏ này nhằm:
 
 ## Các file trong repo này
 - [thptqg_data_crawl.py](https://github.com/thanhtvt/THPTQG2019_score_analysis/blob/main/thptqg_data_crawl.py): Execute file này để lấy dữ liệu từ trên [website](https://diemthi.vnanet.vn/diem-thi/2019)  
-- [chromedriver.exe](https://github.com/thanhtvt/THPTQG2019_score_analysis/blob/main/chromedriver.exe): File này cần để mình có thể sử dụng thư viện selenium phục vụ cho việc crawl data
+- [chromedriver.exe](https://github.com/thanhtvt/THPTQG2019_score_analysis/blob/main/chromedriver.exe): File này cần để mình có thể sử dụng thư viện selenium phục vụ cho việc crawl data (version tùy thuộc vào hệ điều hành và phiên bản Chrome mà các bạn sử dụng, ở đây mình dùng HĐH Windows và phiên bản Chrome là 90.0)
 - [diem_thptqg_2019.csv](https://github.com/thanhtvt/THPTQG2019_score_analysis/blob/main/diem_thptqg_2019.csv): Data sau khi mình crawl xong (8 tiếng rưỡi crawl của mình :) )
 - [thptqg_data_insight.ipynb](https://github.com/thanhtvt/THPTQG2019_score_analysis/blob/main/thptqg_data_insight.ipynb): Notebook nơi mình thao tác với dữ liệu (chỉ là những thao tác khá đơn giản, các bạn có thể xem và phát triển nó tốt hơn :3)
 
@@ -23,9 +23,10 @@ Mình được inspired từ 2 video:
 
 Mình làm giống chủ đề của anh Dũng (điểm thi đại học cơ mà mình làm năm 2019 :v) nhưng sử dụng cách tiếp cận của anh Mì AI. Trong quá trình làm thì mình cũng gặp một vài bug, có cái xảy ra lúc mình crawl được điểm của 14xxx bạn rồi nó sập, đi tong 4-5 tiếng và phải crawl lại từ đầu :) (Mình crawl được điểm của tổng cộng 18575 bạn trong cụm thi Hải Phòng)  
 
-## Các thư viện cần thiết
+## Các thư viện và file cần thiết
 - [Selenium](https://selenium-python.readthedocs.io/): download bằng cmd `pip install selenium`
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/index.html): download bằng cmd `pip install pandas`  
+- [Chromedriver.exe](https://chromedriver.chromium.org/downloads): download tùy theo phiên bản Chrome của bạn và hệ điều hành bạn sử dụng.
 
 ## Lời kết  
 Chúc các bạn, bằng một cách thần kỳ nào đó tìm được repo này sẽ có những giờ học tập và thực hành vui vẻ nha!! 
