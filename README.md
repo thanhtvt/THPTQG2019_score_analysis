@@ -29,3 +29,8 @@ Mình làm giống chủ đề của anh Dũng (điểm thi đại học cơ mà
 
 ## Lời kết  
 Chúc các bạn, bằng một cách thần kỳ nào đó tìm được repo này sẽ có những giờ học tập và thực hành vui vẻ nha!! 
+
+## Một số hình ảnh trong notebook
+![Số thí sinh và phần trăm thí sinh thi mỗi môn](https://github.com/thanhtvt/THPTQG2019_score_analysis/blob/main/image/bar1.jpg)  
+![Phổ điểm toán cụm thi Hải Phòng](https://github.com/thanhtvt/THPTQG2019_score_analysis/blob/main/image/bar2.jpg)  
+![Số môn học sinh thi](https://github.com/thanhtvt/THPTQG2019_score_analysis/blob/main/image/pie.jpg)
