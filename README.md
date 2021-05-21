@@ -12,7 +12,7 @@ Mình làm project nhỏ này nhằm:
 - [thptqg_data_insight.ipynb](https://github.com/thanhtvt/THPTQG2019_score_analysis/blob/main/thptqg_data_insight.ipynb): Notebook nơi mình thao tác với dữ liệu (chỉ là những thao tác khá đơn giản, các bạn có thể xem và phát triển nó tốt hơn :3)
 
 ## Cách mình học các thư viện matplotlib
-Mình học các cấu trúc cơ bản, làm các bài thực hành nhỏ trong vòng nửa ngày. Rồi mình mất thêm 1 ngày để phát triển project cá nhân này.  
+Mình học các cấu trúc cơ bản, làm các bài thực hành nhỏ trong một chiều. Rồi mình mất thêm 2 tối nữa để phát triển project cá nhân này.  
 **Lý thuyết:**
 - Mình học ở [tutorials point](https://www.tutorialspoint.com/matplotlib/index.htm), code theo nó và tự điều chỉnh thêm theo sở thích cá nhân (VD: màu sắc, size chart, kết hợp các chart khác nhau vào cùng một chart)  
   
